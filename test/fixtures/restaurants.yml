@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  address: MyString
+  phone: MyString
+  number: 1
+  category: MyString
+  chinese,: MyString
+  italian,: MyString
+  japanese,: MyString
+  french,: MyString
+  belgian: MyString
+  review: 
+
+two:
+  name: MyString
+  address: MyString
+  phone: MyString
+  number: 1
+  category: MyString
+  chinese,: MyString
+  italian,: MyString
+  japanese,: MyString
+  french,: MyString
+  belgian: MyString
+  review: 
