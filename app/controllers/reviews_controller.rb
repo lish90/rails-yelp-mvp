@@ -11,9 +11,10 @@ class ReviewsController < ApplicationController
   end
 
   def show
+    @restaurant = Review.find(review_params)
   end
 
-    private
+  private
 
   def review_params
     params.require(:review).permit(:content)
